@@ -73,8 +73,8 @@
 
 ### 📫 Let’s Connect
 
-- 💼 Portfolio: [jayeshdev.me](#) (update with your live link)
-- 📧 Email: [your-email@example.com](mailto:jayesh10723@gmail.com)
+- 💼 Portfolio: [jayeshdev.me](#)
+- 📧 Email: [jayesh10723@gmail.com](mailto:jayesh10723@gmail.com)
 - 🐦 Twitter: [@jayeshyadav__](#)
 - 💻 LinkedIn: [linkedin.com/in/jayesh-yadav-61031b223/](#)
 
