@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer | DevOps Engineer | Cloud-Native Architect</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Crafting+Scalable+Web+and+Cloud+Solutions;Freelancer+%7C+Night+Shift+Developer;Let%E4%80%99s+build+something+great+together!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Crafting+Scalable+Web+and+Cloud+Solutions;Freelancer+%7C+Night+Shift+Developer;Let%E0%80%99s+build+something+great+together!" alt="Typing SVG" />
 </p>
 
 ---
