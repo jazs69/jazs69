@@ -76,7 +76,7 @@
 - 💼 Portfolio: [jayeshdev.me](#)
 - 📧 Email: [jayesh10723@gmail.com](mailto:jayesh10723@gmail.com)
 - 🐦 Twitter: [@jayeshyadav__](https://x.com/jayeshyadav__)
-- 💻 LinkedIn: [/in/jayesh-yadav](https://linkedin.com/in/jayesh-yadav-61031b223)
+- 💻 LinkedIn: [/in/jayesh-yadav](https://linkedin.com/in/jayesh-y)
 
 ---
 
