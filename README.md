@@ -59,10 +59,10 @@
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jayeshyadav&show_icons=true&theme=tokyonight" alt="Jayesh's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jayeshyadav&show_icons=true&theme=tokyonight&count_private=true" alt="Jayesh's GitHub Stats" />
 </p>
 
 <p align="center">
@@ -71,11 +71,11 @@
 
 ---
 
-### 📫 Let’s Connect
+### 📢 Let’s Connect
 
 - 💼 Portfolio: [jayeshdev.me](#)
 - 📧 Email: [jayesh10723@gmail.com](mailto:jayesh10723@gmail.com)
-- 🐦 Twitter: [@jayeshyadav__](https://x.com/jayeshyadav__)
+- 🕊️ Twitter: [@jayeshyadav__](https://x.com/jayeshyadav__)
 - 💻 LinkedIn: [/in/jayesh-yadav](https://linkedin.com/in/jayesh-y)
 
 ---
