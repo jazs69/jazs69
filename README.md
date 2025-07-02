@@ -62,11 +62,15 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jayeshyadav&show_icons=true&theme=tokyonight&count_private=true" alt="Jayesh's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jayeshyadav&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Jayesh's GitHub Stats" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayeshyadav&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayeshyadav&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
