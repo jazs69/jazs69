@@ -115,4 +115,19 @@ I collaborate on:
 
 ---
 
+# 💼 For Founders & Businesses
+
+If you're building a product, scaling a startup, or modernizing infrastructure — I help you design and deploy:
+
+• Scalable full-stack applications  
+• Cloud-native infrastructure  
+• AI-powered automation systems  
+• High-performance websites that convert  
+
+I combine engineering + growth strategy to build systems that:
+✔ Increase revenue  
+✔ Reduce operational friction  
+✔ Scale without breaking  
+✔ Perform under pressure  
+
 > “Build once. Scale infinitely. Optimize continuously.”
