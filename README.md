@@ -130,4 +130,14 @@ I combine engineering + growth strategy to build systems that:
 ✔ Scale without breaking  
 ✔ Perform under pressure  
 
+# 🏢 Product Engineering Focus
+
+• Scalable distributed systems  
+• Backend optimization  
+• API design best practices  
+• Observability & monitoring  
+• System reliability engineering  
+• Performance benchmarking  
+• Production deployment workflows  
+
 > “Build once. Scale infinitely. Optimize continuously.”
