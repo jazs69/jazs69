@@ -113,6 +113,8 @@ I collaborate on:
 
 📩 Open for consulting & strategic builds.
 
+> “Build once. Scale infinitely. Optimize continuously.”
+
 ---
 
 # 💼 For Founders & Businesses
@@ -140,4 +142,14 @@ I combine engineering + growth strategy to build systems that:
 • Performance benchmarking  
 • Production deployment workflows  
 
-> “Build once. Scale infinitely. Optimize continuously.”
+# 🤖 AI & Research Interests
+
+• Applied Machine Learning  
+• Model Optimization  
+• Deployment at Scale  
+• Intelligent Automation  
+• Data-driven system design  
+• Real-world AI integration  
+
+Exploring the intersection of:
+AI × Automation × Infrastructure
