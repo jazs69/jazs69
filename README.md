@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.svg" />
+</p>
+
 <!-- Animated Typing Header -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=30&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Jayesh+Yadav;Full-Spectrum+Engineer;Cloud+%7C+DevOps+%7C+AI+%7C+Full-Stack;Building+Scalable+Digital+Systems;Premium+Freelance+%7C+Startup+Architect" />
