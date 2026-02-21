@@ -89,9 +89,9 @@ I approach engineering from a **product & business perspective**.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jazs69&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jazs69&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+</p> -->
 
 ---
 
