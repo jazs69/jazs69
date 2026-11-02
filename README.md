@@ -1,161 +1,55 @@
-<p align="center">
-  <img src="banner.svg" />
-</p>
+# Hi, I'm Jayesh 👋
 
-<!-- Animated Typing Header -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=30&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Jayesh+Yadav;Full-Spectrum+Engineer;Cloud+%7C+DevOps+%7C+AI+%7C+Full-Stack;Building+Scalable+Digital+Systems;Premium+Freelance+%7C+Startup+Architect" />
-</h1>
+### Full Stack Developer · I build production-ready SaaS with Next.js, TypeScript & Node.js
 
-<p align="center">
-  <b>Software Architect • DevOps Engineer • AI/ML Developer • Cloud Specialist • Growth Systems Builder</b>
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-jayeshyadav.dev-000?style=flat&logo=vercel)](https://jayeshyadav.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-jayesh--y-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/jayesh-y/) [![Email](https://img.shields.io/badge/Email-jayesh10723@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jayesh10723@gmail.com)
 
 ---
 
-# 🧠 Executive Summary
+### 🚀 About me
 
-I design and build **scalable, production-grade digital ecosystems**.
+💼 Entry-level **Full Stack Developer** open to Full Stack / Software Engineer roles (on-site, hybrid, remote)
 
-I operate across:
+🏥 Built a **production-ready Hospital Management System** during my internship at Digital Blinc
 
-• Full-Stack Engineering  
-• DevOps & Cloud Infrastructure  
-• AI / ML Systems  
-• Automation Architecture  
-• Performance Engineering  
-• Revenue-Driven Digital Systems  
+🧪 Wrote LLM-evaluation problems and test suites with **95% line & branch coverage** at Softinator
 
-I don’t build projects.
+♻️ Built **AI waste-classification** systems (computer vision + IoT) for smart-city waste management
 
-I build **assets that scale, automate, and generate impact.**
+🎓 MCA (3rd sem) @ LNCT · 🏆 1st Prize (₹51,000), Young Entrepreneurs Forum
 
 ---
 
-# 🏗 Core Expertise
+### 🛠 Tech stack
 
-## 💻 Full-Stack Architecture
-- React / Next.js
-- Node.js / Express
-- Python / FastAPI
-- Java / Spring
-- REST & GraphQL
-- Microservices
-- Monorepo architecture
-
-## ☁ Cloud & DevOps Engineering
-- AWS
-- Docker & Containerization
-- CI/CD (GitHub Actions)
-- Infrastructure Automation
-- Reverse Proxy (Nginx)
-- Linux Server Hardening
-- Performance Scaling
-
-## 🤖 AI / ML & Intelligent Systems
-- Python (Data & ML stack)
-- Scikit-Learn
-- TensorFlow / PyTorch
-- Model Deployment APIs
-- Automation Bots
-- Data Pipelines
-- Predictive Analytics
-
-## ⚡ Performance & SEO Engineering
-- Core Web Vitals Optimization
-- Technical SEO
-- Conversion Systems
-- Growth Analytics
-- Revenue Optimization Architecture
+| Area | Tools |
+|---|---|
+| **Frontend** | Next.js · React · TypeScript · Tailwind CSS |
+| **Backend** | Node.js · NestJS · Fastify · Python · REST · OpenAPI/Swagger |
+| **Data** | PostgreSQL · MongoDB · Prisma · Drizzle · Redis · BullMQ |
+| **Quality** | Zod · Jest · secure session auth |
+| **DevOps & Cloud** | Docker · Docker Compose · GitHub Actions · AWS · Terraform · S3 |
+| **AI-assisted dev** | Cursor · Claude Code · Copilot |
 
 ---
 
-# 🚀 Founder & Builder Mindset
+### 📌 Featured projects
 
-I approach engineering from a **product & business perspective**.
-
-✔ Systems Thinking  
-✔ Scalability First  
-✔ Automation by Default  
-✔ Performance Obsessed  
-✔ ROI-Oriented Engineering  
-
----
-
-# 📊 GitHub Intelligence
-
-<p align="center">
-  <img height="165em"
-  src="https://github-readme-stats-sigma-five.vercel.app/api?username=jazs69&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jazs69&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img height="160em"
-  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jazs69&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+| Project | What it is | Stack |
+|---|---|---|
+| [**EaseIt**](https://github.com/jazs69/EaseIt) | Hotel management platform with channel-manager research, built as a TypeScript Turborepo monorepo with CI | TypeScript · Turborepo · pnpm |
+| [**SorterAI**](https://github.com/jazs69/SorterAI) | AI waste sorter: upload a photo, get instant waste-type classification | TypeScript · Python · CV |
+| [**getyourbin**](https://github.com/jazs69/getyourbin) | Full e-commerce store for smart dustbins built from scratch: JWT + Google OAuth, Razorpay payments, order tracking, admin panel | Vanilla JS · Node.js · MongoDB |
+| [**uber-clone**](https://github.com/jazs69/uber-clone) | Uber-style ride-booking app | JavaScript · MERN |
+| [**room-redesign-ai**](https://github.com/jazs69/room-redesign-ai) | AI room redesign from a photo | TypeScript · AI |
+| [**Projects-to-master-apis**](https://github.com/jazs69/Projects-to-master-apis) | Hands-on projects for learning to build and consume APIs | JavaScript |
 
 ---
 
-# 🧩 Strategic Focus (2026)
+### 📊 GitHub stats
 
-• AI-powered SaaS Systems  
-• Cloud-native Infrastructure  
-• Intelligent Automation  
-• Startup-Grade Architectures  
-• High-Ticket Digital Consulting  
+![Stats](https://github-readme-stats.vercel.app/api?username=jazs69&show_icons=true&hide_border=true&count_private=true) ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jazs69&layout=compact&hide_border=true)
 
 ---
 
-# 🌐 Work With Me
-
-I collaborate on:
-
-• Premium freelance projects  
-• Startup tech architecture  
-• AI-based system development  
-• DevOps modernization  
-• Growth & performance optimization  
-
-📩 Open for consulting & strategic builds.
-
-> “Build once. Scale infinitely. Optimize continuously.”
-
----
-
-# 💼 For Founders & Businesses
-
-If you're building a product, scaling a startup, or modernizing infrastructure — I help you design and deploy:
-
-• Scalable full-stack applications  
-• Cloud-native infrastructure  
-• AI-powered automation systems  
-• High-performance websites that convert  
-
-I combine engineering + growth strategy to build systems that:
-✔ Increase revenue  
-✔ Reduce operational friction  
-✔ Scale without breaking  
-✔ Perform under pressure  
-
-# 🏢 Product Engineering Focus
-
-• Scalable distributed systems  
-• Backend optimization  
-• API design best practices  
-• Observability & monitoring  
-• System reliability engineering  
-• Performance benchmarking  
-• Production deployment workflows  
-
-# 🤖 AI & Research Interests
-
-• Applied Machine Learning  
-• Model Optimization  
-• Deployment at Scale  
-• Intelligent Automation  
-• Data-driven system design  
-• Real-world AI integration  
-
-Exploring the intersection of:
-AI × Automation × Infrastructure
+*Open to Full Stack / Software Engineer roles — let's talk: [jayesh10723@gmail.com](mailto:jayesh10723@gmail.com)*
